@@ -1,0 +1,5 @@
+com/qa/cifAdminPages/ContactPage.class
+com/qa/cifAdminPages/loginPage.class
+com/qa/testBase/TestBaseClass.class
+com/qa/cifAdminPages/HomePage.class
+com/qa/cifAdminPages/DealPage.class
